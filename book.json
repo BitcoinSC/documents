@@ -1,0 +1,21 @@
+{
+    "title": "BSC Documentation Site",
+    "variables": {
+        "host": "docs.bsc.net"
+    },
+    "plugins": [
+        "katex",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "otherlink",
+        "language-picker",
+        "favicon-absolute"
+    ],
+    "pluginsConfig": {
+        "favicon-absolute":{
+            "favicon": "/favicon.ico",
+            "appleTouchIconPrecomposed152": "/logo.png"
+        }
+    }
+}
