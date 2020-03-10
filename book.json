@@ -10,12 +10,16 @@
         "search-pro",
         "otherlink",
         "language-picker",
-        "favicon-absolute"
+        "favicon-absolute",
+        "ga"
     ],
     "pluginsConfig": {
         "favicon-absolute":{
             "favicon": "/favicon.ico",
             "appleTouchIconPrecomposed152": "/logo.png"
+        },
+        "ga": {
+            "token": "UA-160166269-2"
         }
     }
 }
