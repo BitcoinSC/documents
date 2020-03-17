@@ -1,6 +1,6 @@
-# BitcoinSC Stratum Protocol
+# BSC Stratum Protocol
 
-## Basic knowledge of BSC pow algo
+## Basic knowledge of BSC PoW algo
 
 ### header[144]
 ```

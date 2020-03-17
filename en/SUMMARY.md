@@ -11,3 +11,4 @@
 
 ## Mining
 * [How to Mine BSC](mine_bsc/README.md)
+* [Stratum Protocol](mine_bsc/stratum.md)
