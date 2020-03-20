@@ -2,7 +2,7 @@
 
 ## Basic knowledge of BSC PoW algo
 
-### header[144]
+### data[144]
 ```
 nNonce[4]
 nVersion[4]
@@ -16,8 +16,8 @@ hashUTXORoot[32] // bsc
 
 ### hash calculation
 ```
-d[128] = header[0:128]
-c[32] = header[112:144]
+d[128] = data[0:128]
+c[32] = data[112:144]
 
 left_hash[64] = swap(blake2b_512(d[128]))
 right_hash[32] = sha3(d[128] + c[0:8])
