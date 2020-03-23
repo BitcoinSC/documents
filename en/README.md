@@ -12,5 +12,5 @@
 # Roadmap
 * **Mar 2020, Testnet.** In late March 2020, a Testnet will be released, including basic functions such as blockchain and smart contracts.
 * **Jun 2020, Mainnet.** In June 2020, about one month after the Bitcoin halving happens, release the mainnet of BSC, including all functions of the blockchain and a QT wallet.
-* **Sep 2020, Smart Contracts.** Release a toochain for smart contracts, including contract templates, development tools, and runtime tools.
+* **Sep 2020, Toolchain.** Release a toochain for smart contracts, including contract templates, development tools, and runtime tools.
 * **Dec 2020, Wallets.** Improve and support multiple types of wallets, including QT wallet, SPV wallet, web wallet and mobile wallet.
